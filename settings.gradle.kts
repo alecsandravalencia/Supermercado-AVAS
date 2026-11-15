@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Supermercado"
+rootProject.name = "Supermercado AVAS"
 include(":app")
