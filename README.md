@@ -14,7 +14,11 @@ Permitir que el cliente pueda buscar productos, guardar sus favoritos y armar su
 
 | Inicio | Favoritos | Carrito |
 |:---:|:---:|:---:|
-| ![Inicio](Inicio.png) | ![Favoritos](Favoritos.png) | ![Carrito](Carrito.png) |
+| ![Inicio](Inicio.jpeg) | ![Favoritos](Favoritos.jpeg) | ![Carrito](Carrito.jpeg) |
+
+| Pedidos | Gestión |
+|:---:|:---:|
+|![Pedidos](Pedidos.jpeg) | ![Gestion](Gestion.jpeg) |
 
 ## 🏗️ Arquitectura y estructura del proyecto
 ```
