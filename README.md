@@ -129,6 +129,9 @@ Navigation Compose (NavController + NavHost) con una barra inferior de cinco des
 
 ## 📦 APK
 El archivo .apk instalable se encuentra en:
+```
+https://github.com/alecsandravalencia/Supermercado-AVAS/releases/tag/V2.0
+```
 
 ## 👤 Autora
 
